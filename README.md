@@ -3,6 +3,6 @@
 <img src="https://user-images.githubusercontent.com/54097961/98356571-1e7a8b80-2067-11eb-838d-575b8ee98c32.jpg" width="350px" height="350px"></img>
 
 <h2>Introduction</h2>
-sssss
+온라인 쇼핑이 활성화 되고 있는 상황에서 안경 및 선글라스 제품의 구매에 불편함을 겪는 소비자들에게 상품의 이미지, 사이즈 등을 '안경상점'앱을 통해 미리 써보며 구매에 도움을 주고자 한다. 
 
 
