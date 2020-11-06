@@ -7,5 +7,5 @@
 
 <h2>Process</h2>
 <img src="https://user-images.githubusercontent.com/54097961/98358051-77e3ba00-2069-11eb-8785-5e601862d9b1.jpg" width="300px" height="500px"></img>
-<h4>사용자로부터 이미지 가이드에 맞는 크기의 사진을 입력받는다</h4>
+* 사용자로부터 이미지 가이드에 맞는 크기의 사진을 입력받는다
 
