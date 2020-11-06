@@ -1,1 +1,1 @@
-![안경상점](/Users/idowon/Desktop/shop.png)
+![안경상점](/Users/idowon/Desktop/shop.jpg)
