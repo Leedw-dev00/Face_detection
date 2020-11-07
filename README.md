@@ -8,7 +8,9 @@
 <h2>Process</h2>
 <p align="center"> <img src="https://user-images.githubusercontent.com/54097961/98358051-77e3ba00-2069-11eb-8785-5e601862d9b1.jpg" width="300px" height="500px"></img> </p>
 
-<p align="center"> *사용자로부터 이미지 가이드에 맞는 크기의 사진을 입력받는다 </p>
+<p align="center"> *사용자로부터 이미지 가이드에 맞는 크기의 사진을 입력받는다   </p>
+
+
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/54097961/98358059-7914e700-2069-11eb-9a51-18467222e4c0.png" width="300px" height="500px"></img> </p>
 
@@ -19,5 +21,5 @@
 <h2>Detail</h2>
 <h4>Firebase ML-Kit 활용</h4>
 <h5> Google Firebase ML-Kit 참조 : https://firebase.google.com/docs/ml-kit/android/detect-faces</h5>
-<img src="https://firebase.google.com/docs/ml-kit/images/examples/face_contours.svg" width="300px" height="500px"></img>
+<p align="cetner> <img src="https://firebase.google.com/docs/ml-kit/images/examples/face_contours.svg" width="300px" height="500px"></img> </p>
 
