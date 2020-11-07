@@ -21,5 +21,5 @@
 <h2>Detail</h2>
 <h4>Firebase ML-Kit 활용</h4>
 <h5> Google Firebase ML-Kit 참조 : https://firebase.google.com/docs/ml-kit/android/detect-faces</h5>
-<p align="cetner"> <img src="https://firebase.google.com/docs/ml-kit/images/examples/face_contours.svg" width="300px" height="500px"></img> </p>
+<p align="center"> <img src="https://firebase.google.com/docs/ml-kit/images/examples/face_contours.svg" width="300px" height="500px"></img> </p>
 
