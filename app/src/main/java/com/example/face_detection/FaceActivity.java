@@ -50,7 +50,7 @@ public class FaceActivity extends Activity {
                         .setClassificationMode(FirebaseVisionFaceDetectorOptions.ALL_CLASSIFICATIONS)
                         .build();
 
-        final Bitmap bitmap = BitmapFactory.decodeResource(mContext.getResources(), R.drawable.aa);
+        final Bitmap bitmap = BitmapFactory.decodeResource(mContext.getResources(), R.drawable.face3);
 
         FirebaseVisionImage image = FirebaseVisionImage.fromBitmap(bitmap);
 
@@ -80,11 +80,11 @@ public class FaceActivity extends Activity {
                                             float ley = leftEye.getPosition().getY();
 
                                             ImageView imageLE = new ImageView(mContext);
-                                            imageLE.setImageResource(R.drawable.mung);
-                                            imageLE.setX(p.x * lex / bitmap.getWidth()-50);
-                                            imageLE.setY(p.y * ley / bitmap.getHeight()-380);
+                                            imageLE.setImageResource(R.drawable.gl1_1);
+                                            imageLE.setX(p.x * lex / bitmap.getWidth()-415);
+                                            imageLE.setY(p.y * ley / bitmap.getHeight()-800);
 
-                                            imageLE.setLayoutParams(new RelativeLayout.LayoutParams(100,100));
+                                            imageLE.setLayoutParams(new RelativeLayout.LayoutParams(800,800));
 
                                             RelativeLayout_main.addView(imageLE);
 
