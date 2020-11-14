@@ -12,7 +12,8 @@
 
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/54097961/98358059-7914e700-2069-11eb-9a51-18467222e4c0.png" width="300px" height="500px"></img> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/54097961/99138866-44abb700-2677-11eb-879c-bc783b94e5e2.png" width="300px" height="500px"></img> </p>
+
 
 <p align="center"> *사용자로부터 입력받은 사진에 안경 이미지를 씌어준다(추후 업로드)   </p>   
 <p align="center"> *(현재는 안경의 중심 부분인 코 부분에 보라색으로 표시)   </p>
