@@ -15,8 +15,8 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/54097961/99138866-44abb700-2677-11eb-879c-bc783b94e5e2.png" width="300px" height="500px"></img> </p>
 
 
-<p align="center"> *사용자로부터 입력받은 사진에 안경 이미지를 씌어준다(추후 업로드)   </p>   
-<p align="center"> *(현재는 안경의 중심 부분인 코 부분에 보라색으로 표시)   </p>
+<p align="center"> *사용자로부터 입력받은 사진에 안경 이미지를 씌어준다   </p>   
+<p align="center"> *(안경의 중심인 코와 미간 사이를 기준으로 안경을 배치)   </p>
 
 
 <h2>Detail</h2>
